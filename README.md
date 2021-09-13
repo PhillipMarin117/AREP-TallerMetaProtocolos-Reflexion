@@ -5,7 +5,7 @@
 Si se deseea hacer uso del programa lo primero que debe realizarse el clonar el repositorio almacenado en Github a través del siguiente comando:
 
 ```
-git clone https://github.com/csarssj/AREP-LAB-4.git
+git clone https://github.com/PhillipMarin117/AREP-TallerMetaProtocolos-Reflexion.git
 
 ```
 O si desea puede descargarlo como archivo zip y luego descomprimirlo en la carpeta que desee.
@@ -50,10 +50,6 @@ Este proyecto necesita tener los siguientes progamas instalados en la máquina d
 
 El sistema, mas alla de facilitar el registro de las iniciativas e ideas de proyectos, es una valiosa base de conocimiento donde los diferentes actores pueden revisar si hay iniciativas, ideas o intereses similares y aunar esfuerzos para la materializacion.
 
-### Diagrama de clases y Reporte de pruebas
-
-[Se encuentran en este documento](https://github.com/csarssj/AREP-LAB-3/blob/master/Arquitectura_Empresarial__4.pdf)
-
 
 ## Construido en
 
@@ -84,9 +80,7 @@ El sistema, mas alla de facilitar el registro de las iniciativas e ideas de proy
 
 ## Authors
 
-[César González](https://github.com/csarssj) 
-
-_Fecha : 21 de febrero del 2021_ 
+[Felipe Marín](https://github.com/PhillipMarin117) 
 
 
 ## License
